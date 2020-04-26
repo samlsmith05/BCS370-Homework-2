@@ -1,0 +1,4 @@
+﻿  BookCollection.cpp
+c:\users\samantha\documents\fall 2019\bcs370\bcs370homework2\bcs370homework2\bookcollection.cpp(76): warning C4715: 'BookCollection::Get': not all control paths return a value
+  BCS370Homework2.vcxproj -> C:\Users\Samantha\Documents\Fall 2019\BCS370\BCS370Homework2\Debug\BCS370Homework2.exe
+  BCS370Homework2.vcxproj -> C:\Users\Samantha\Documents\Fall 2019\BCS370\BCS370Homework2\Debug\BCS370Homework2.pdb (Partial PDB)
